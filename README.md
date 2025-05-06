@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Attack Investigation      | <a href="https://github.com/heemalbhattarai123/phishing-attack-investigation/tree/main">Phising Attack Investigation </a>|
-| Malware Analysis and Containment | <a href="https://github.com/heemalbhattarai123/malware-analysis/main">Malware Analysis and Contaiment</a>|
+| Malware Analysis and Containment | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
 | Network Intrusion Detection and Response        | SOC Automation Lab|
 | DDoS Attack Detection and Response      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
