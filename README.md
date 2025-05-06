@@ -11,15 +11,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Attack Investigation      | <a href="https://github.com/heemalbhattarai123/phishing-attack-investigation/tree/main">Phising Attack Investigation </a>|
-| Malware Analysis and Containment | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
-| Network Intrusion Detection and Response        | SOC Automation Lab|
-| DDoS Attack Detection and Response      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Phishing Attack Investigation            | <a href="https://github.com/heemalbhattarai123/phishing-attack-investigation/tree/main">Phising Attack Investigation </a>|
+| Malware Analysis and Containment         | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
+| Network Intrusion Detection and Response | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+| DDoS Attack Detection and Response       | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+| Case Management with TheHive             | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,18 +41,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    
+| Certification                                      | Vendor      | Year Certified |
+|-----------------------------------------------|----------------------------|
+| MS-200 Security Operation Analysts  | <a href="https://learn.microsoft.com/en-us/users/himalbhattarai-8505/credentials/certification/security-operations-analyst?tab=credentials-tab">Microsoft</a> | 2024 |
+| Malware Analysis and Containment         | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
 </div>
 
 ## Projects
 - <a href="https://github.com/heemalbhattarai123/Detection-Lab/tree/main">Phising Attack Investigation</a>
 - <a href="https://github.com/heemalbhattarai123/malware-analysis/main">Malware Analysis and Contaiment</a>
-- <a href="https://github.com/heemalbhattarai123/Malware-analysis/main">Network Intrusion Detection and Response </a>|
-- <a href="https://github.com/heemalbhattarai123/Malware-analysis/main">DDoS Attack Detection and Response </a>|
-- <a href="https://github.com/heemalbhattarai123/Malware-analysis/main">Malware Analysis</a>|
+- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
