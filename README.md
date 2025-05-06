@@ -49,7 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
     
 | Certification                                      | Vendor      | Year Certified |
-|-----------------------------------------------|----------------------------|
+|----------------------------------------------------|-------------|----------------|
 | MS-200 Security Operation Analysts  | <a href="https://learn.microsoft.com/en-us/users/himalbhattarai-8505/credentials/certification/security-operations-analyst?tab=credentials-tab">Microsoft</a> | 2024 |
 | Malware Analysis and Containment         | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
 </div>
