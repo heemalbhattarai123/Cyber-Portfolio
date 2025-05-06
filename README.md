@@ -45,7 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Certification                                      | Vendor      | Year Certified |
 |----------------------------------------------------|-------------|----------------|
 | MS-200 Security Operation Analysts  | <a href="https://learn.microsoft.com/en-us/users/himalbhattarai-8505/credentials/certification/security-operations-analyst?tab=credentials-tab">Microsoft</a> | 2024 |
-| Certified in Cybersecurity  | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">ISC2</a>| 2024 |
+| Certified in Cybersecurity  | <a href="https://www.credly.com/badges/a6931986-b54e-4500-aa1b-4a2750c93350/public_url">ISC2</a>| 2024 |
 </div>
 
 ## Projects
