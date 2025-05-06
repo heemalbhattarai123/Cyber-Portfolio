@@ -14,9 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Phishing Attack Investigation            | <a href="https://github.com/heemalbhattarai123/phishing-attack-investigation/tree/main">Phising Attack Investigation </a>|
 | Malware Analysis and Containment         | <a href="https://github.com/heemalbhattarai123/malware-analysis/tree/main">Malware Analysis and Contaiment</a>|
 | Network Intrusion Detection and Response | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-| DDoS Attack Detection and Response       | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-| Case Management with TheHive             | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+| DDoS Attack Detection and Response       | <a href="https://github.com/heemalbhattarai123/ddos-attack-detection-response/tree/main"> DDoS Attack Detection and Respose </a>|
+
 
 ## Tools
 
@@ -42,11 +41,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
     
 | Certification                                      | Vendor      | Year Certified |
 |----------------------------------------------------|-------------|----------------|
@@ -58,5 +52,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/heemalbhattarai123/Detection-Lab/tree/main">Phising Attack Investigation</a>
 - <a href="https://github.com/heemalbhattarai123/malware-analysis/main">Malware Analysis and Contaiment</a>
 - <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
+
