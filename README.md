@@ -51,5 +51,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/heemalbhattarai123/Detection-Lab/tree/main">Phising Attack Investigation</a>
 - <a href="https://github.com/heemalbhattarai123/malware-analysis/main">Malware Analysis and Contaiment</a>
-- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>|
-
+- <a href="https://github.com/heemalbhattarai123/network-intrusion-detection/tree/main"> Network Intrusion Detection </a>
+- <a href="https://github.com/heemalbhattarai123/ddos-attack-detection-response/tree/main"> DDoS Attack Detection and Respose </a>
